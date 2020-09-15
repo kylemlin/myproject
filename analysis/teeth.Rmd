@@ -7,7 +7,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-## Introduction
+## Teeth Growth Analysis (practice example)
 
 ```{r import_teeth}
 teeth <- read.csv("data/teeth.csv", row.names = 1)
