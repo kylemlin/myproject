@@ -9,3 +9,5 @@ editor_options:
 ---
 
 This project is a practice exercise in using workflowr, as part of qBio 2020.
+
+* [Teeth growth analysis](teeth.html)
