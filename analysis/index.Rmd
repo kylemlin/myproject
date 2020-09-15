@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "qBio 2020: Data Reproducibility Exercise"
 site: workflowr::wflow_site
 output:
   workflowr::wflow_html:
@@ -8,4 +8,4 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+This project is a practice exercise in using workflowr, as part of qBio 2020.
